@@ -1,0 +1,14 @@
+package com.example.firebaserecycler;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+public class HenaGhapan extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_hena_ghapan);
+    }
+}
