@@ -23,7 +23,7 @@ DBHelper DB;
         contact = findViewById(R.id.contact);
         dob = findViewById(R.id.dob);
 
-        insert = findViewById(R.id.btnInsert);
+
         update = findViewById(R.id.btnUpdate);
         delete = findViewById(R.id.btnDelete);
         view = findViewById(R.id.btnView);
